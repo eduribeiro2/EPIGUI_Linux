@@ -1,6 +1,6 @@
 Requirements
 ==================================
-The packages build-essential and python3-matplotlib. <sudo apt-get install build-essential && python3-matplotlib>
+The packages build-essential and matplotlib.
 
 
 Introduction
